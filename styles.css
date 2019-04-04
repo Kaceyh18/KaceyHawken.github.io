@@ -14,9 +14,6 @@ body {
     margin: auto;
 }
 
-* {
-    outline: 1px solid red;
-}
 
 #header {
     background-color: white;
